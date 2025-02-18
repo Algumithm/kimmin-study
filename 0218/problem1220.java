@@ -1,7 +1,7 @@
 import java.io.FileInputStream;
 import java.util.Scanner;
 
-public class problem1220 {
+class Solution {
 	final static int N = 1;
 	final static int S = 2;
 	
