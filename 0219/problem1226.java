@@ -3,7 +3,7 @@ import java.io.FileInputStream;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class problem1226 {
+public class Solution {
 	final static char ROAD = '0';
 	final static char WALL = '1';
 	final static char START = '2';
