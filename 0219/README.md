@@ -9,3 +9,7 @@
 # [1226. [S/W 문제해결 기본] 미로1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14vXUqAGMCFAYD)
 
 ![image](https://github.com/user-attachments/assets/fa0ca69c-2c85-4c46-b66c-de4f73f16589)
+
+# [2805. 농작물 수확하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB)
+
+![image](https://github.com/user-attachments/assets/b43035e6-c2be-4d5a-89ee-842986de5223)
