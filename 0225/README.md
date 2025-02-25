@@ -1,4 +1,4 @@
-# 1231. [[S/W 문제해결 기본] 중위순회](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV140YnqAIECFAYD)
+# [1231. [S/W 문제해결 기본] 중위순회](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV140YnqAIECFAYD)
 
 ![image](https://github.com/user-attachments/assets/dc1a738d-d15f-49f4-b5e1-520ef0ba823f)
 
