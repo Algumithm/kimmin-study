@@ -9,3 +9,7 @@
 # [1012. 유기농 배추](https://www.acmicpc.net/problem/1012)
 
 ![image](https://github.com/user-attachments/assets/d262e864-36ff-4d47-b598-a4bc96bece06)
+
+# [2178. 미로 탐색](https://www.acmicpc.net/problem/2178)
+
+![image](https://github.com/user-attachments/assets/4464833c-345f-4378-a1af-564c7dafd438)
