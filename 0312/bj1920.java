@@ -11,7 +11,10 @@ public class Main {
 	static int RESULT;
 	
 	static void findNum(int prev, int cur, int next) {
-		if(NUMBERS[cur] == TARGET_NUM) RESULT = 1;
+		if(NUMBERS[cur] == TARGET_NUM) {
+			RESULT = 1;
+			return;
+		}
 		
 		int center = 0;
 		if(NUMBERS[cur] > TARGET_NUM) center = (prev + cur)/2;
