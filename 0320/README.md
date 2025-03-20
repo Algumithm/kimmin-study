@@ -1,3 +1,3 @@
-# [1258. [S/W 문제해결 응용] 행렬찾기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18LoAqItcCFAZN)
+# [4014. [모의 SW 역량테스트] 활주로 건설](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH)
 
-![image](https://github.com/user-attachments/assets/c0a3d66a-eca2-4161-9f54-f8d864623512)
+![image](https://github.com/user-attachments/assets/72ac3e6b-49fa-4d5a-84df-1152b6edaf8e)
